@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skoohy
 - 👀 I’m interested in machine learning, physics, and mathematics
-- 🌱 I’m currently learning about neural networks, python, numerical methods, and soon C++ 
+- 🌱 I’m currently learning about neural networks, python, numerical methods, and (hopefully) soon C++ 
 - 📫 How to reach me: skoohy@umassd.edu | shawnkoohy@gmail.con
 
 <!---
