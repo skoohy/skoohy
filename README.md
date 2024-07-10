@@ -3,6 +3,7 @@ In the spring of 2024, I graduated with my BS in mathematics, a concentration in
 As of fall 2024, I will be starting my PhD in mechanical engineering and applied mechanics at the University of Pennsylvania, advised under Dr. Paris Perdikaris, where I will be working on scientific machine learning.
 
 Here are some of my links and how you can reach me:
+
 [LinkedIn](https://www.linkedin.com/in/shawn-koohy/)
 
 [Google Scholar](https://scholar.google.com/citations?user=7OIp0rwAAAAJ&hl=en)
